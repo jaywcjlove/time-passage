@@ -7,11 +7,13 @@
 	<h1>Life Countdown Time</h1>
 </div>
 
-Life time calculator. How many days will I live? How many days do I live? Death time calculator. When will i die? 
+Life time calculator. How many days will I live? How many days do I live? 
 
-<a target="_blank" href="https://apps.apple.com/app/life-countdown-time/id6479194014" title="Iconize Folder for macOS">
+<a target="_blank" href="https://apps.apple.com/app/life-countdown-time/id6479194014" title="Life Countdown Time for macOS">
   <img alt="Life Countdown Time AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
 </a>
+
+Death time calculator. When will i die? 
 
 ![Life Countdown Time screenshots-1](https://github.com/jaywcjlove/life-countdown-time/assets/1680273/c5cf5ed7-b21a-44e3-be30-4d0858c9a5be)
 
