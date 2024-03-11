@@ -1,4 +1,4 @@
-[简体中文](./README.zh.md)
+[简体中文](./README.zh.md) • [Privacy Policy](./privacy-policy.md)
 
 <div align="center">
 	<br />

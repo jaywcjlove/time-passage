@@ -1,4 +1,4 @@
-[English](./README.md)
+[English](./README.md) • [隐私政策](./privacy-policy.md)
 
 <div align="center">
 	<br />
