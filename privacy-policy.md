@@ -1,4 +1,5 @@
-**Privacy Policy**
+Privacy Policy
+===
 
 Kenny Wang built the LifeCountdownTime app as a Free app. This SERVICE is provided by Kenny Wang at no cost and is intended for use as is.
 
