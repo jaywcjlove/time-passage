@@ -7,7 +7,7 @@
 	<h1>人生倒计时</h1>
 </div>
 
-寿命计算器。我还能活多少天？我还能活多少天？死亡时间计算器。
+我还能活多少天？我还能活多少天？死亡时间计算器。
 
 <a target="_blank" href="https://apps.apple.com/app/life-countdown-time/id6479194014" title="人生倒计时 for macOS">
   <img alt="人生倒计时 AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
