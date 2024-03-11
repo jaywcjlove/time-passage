@@ -9,9 +9,9 @@
 
 How many days will I live? How many days do I live? 
 
-<a target="_blank" href="https://apps.apple.com/app/life-countdown-time/id6479194014" title="Life Countdown Time for macOS">
-  <img alt="Life Countdown Time AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+<a target="_blank" href="https://apps.apple.com/app/life-countdown-time/id6479194014" title="Life Countdown Time for macOS"><img alt="Life Countdown Time AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
 </a>
+<a href="https://wangchujiang.com/#/contact"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store"  height="51"></a>
 
 When will i die? 
 
