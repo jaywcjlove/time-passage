@@ -15,6 +15,6 @@ How many days will I live? How many days do I live?
 
 When will i die? 
 
-![Life Countdown Time screenshots-1](https://github.com/jaywcjlove/life-countdown-time/assets/1680273/c5cf5ed7-b21a-44e3-be30-4d0858c9a5be)
+![Life Countdown Time screenshots-1](./assets/screenshots-1.png)
 
-![Life Countdown Time screenshots-2](https://github.com/jaywcjlove/life-countdown-time/assets/1680273/fcdf35be-d72e-42d7-aaca-9ac5054cc5ae)
+![Life Countdown Time screenshots-2](./assets/screenshots-2.png)
