@@ -4,8 +4,8 @@
 	<img src="https://github.com/jaywcjlove/time-passage/assets/1680273/70bf83db-c1b0-4187-ad9c-dee7a99ab1ca" width="160" height="160">
 	<p>
 		<a href="./README.md">English</a> • 
-		<a href="./privacy-policy.md">隐私政策</a> • 
-		<a href="https://wangchujiang.com/#/contact">联系&支持</a>
+		<a href="./privacy-policy.md">Privacy Policy</a> • 
+		<a href="https://wangchujiang.com/#/contact">Contact & Support</a>
 	</p>
 	<h1>Time Passage</h1>
 </div>
