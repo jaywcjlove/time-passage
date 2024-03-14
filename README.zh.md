@@ -10,7 +10,7 @@
 	<h1>时光流逝</h1>
 </div>
 
-计算从生日到给定时间还剩多少时间。(iOS 审核人员让我必须改名字 ~~“人生倒计时”~~ => "时光流逝")
+计算从生日到给定时间还剩多少时间。(iOS 审核人员让我必须改名字 ~~`人生倒计时`~~ => `时光流逝`)
 
 <a target="_blank" href="https://apps.apple.com/app/time-passage/id6479194014" title="时光流逝 for macOS">
   <img alt="时光流逝 AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
