@@ -17,8 +17,8 @@ jobs:
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "Life Countdown Time"
-          keywords: life time calculator,how many days will i live, death time calculator, when will i die
+          site: "Time Passage"
+          keywords: life time calculator,Time Passage,how many days will i live, death time calculator, when will i die
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/life-countdown-time

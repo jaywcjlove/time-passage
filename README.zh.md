@@ -4,10 +4,10 @@
 	<br />
 	<br />
 	<img src="https://github.com/jaywcjlove/life-countdown-time/assets/1680273/70bf83db-c1b0-4187-ad9c-dee7a99ab1ca" width="160" height="160">
-	<h1>人生倒计时</h1>
+	<h1>时光流逝</h1>
 </div>
 
-我还能活多少天？我还能活多少天？
+计算从生日到给定时间还剩多少时间。(iOS 审核人员让我必须改名字 ~~“人生倒计时”~~ => "时光流逝")
 
 <a target="_blank" href="https://apps.apple.com/app/life-countdown-time/id6479194014" title="人生倒计时 for macOS">
   <img alt="人生倒计时 AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
