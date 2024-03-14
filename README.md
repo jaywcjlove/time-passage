@@ -1,4 +1,4 @@
-[简体中文](./README.zh.md) • [Privacy Policy](./privacy-policy.md)
+[简体中文](./README.zh.md) • [Privacy Policy](./privacy-policy.md) • [**Contact & Support**](https://wangchujiang.com/#/contact)
 
 <div align="center">
 	<br />

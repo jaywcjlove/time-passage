@@ -1,4 +1,4 @@
-[English](./README.md) • [隐私政策](./privacy-policy.md)
+[English](./README.md) • [隐私政策](./privacy-policy.md) • [**联系 & 支持**](https://wangchujiang.com/#/contact)
 
 <div align="center">
 	<br />
@@ -18,3 +18,5 @@
 ![人生倒计时 screenshots-1](https://github.com/jaywcjlove/life-countdown-time/assets/1680273/c5cf5ed7-b21a-44e3-be30-4d0858c9a5be)
 
 ![人生倒计时 screenshots-2](https://github.com/jaywcjlove/life-countdown-time/assets/1680273/fcdf35be-d72e-42d7-aaca-9ac5054cc5ae)
+
+## 常见问题
