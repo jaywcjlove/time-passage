@@ -21,7 +21,7 @@ jobs:
           keywords: life time calculator,Time Passage,how many days will i live, death time calculator, when will i die
           favicon: assets/logo.png
           logo: ./assets/logo.png
-          openSource: https://github.com/jaywcjlove/life-countdown-time
+          openSource: https://github.com/jaywcjlove/time-passage
           tocs: false
           element: 
             wrapper: style=max-width:720px;
@@ -37,7 +37,7 @@ jobs:
             - README.zh.md
             - privacy-policy.md
           footer: |
-            <a href="https://wangchujiang.com/life-countdown-time/privacy-policy.html" target="_blank">Privacy Policy</a> • 
+            <a href="https://wangchujiang.com/time-passage/privacy-policy.html" target="_blank">Privacy Policy</a> • 
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 
             <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> • 
             <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br /><br />
