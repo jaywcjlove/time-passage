@@ -2,12 +2,13 @@
 	<br />
 	<br />
 	<img src="https://github.com/jaywcjlove/time-passage/assets/1680273/70bf83db-c1b0-4187-ad9c-dee7a99ab1ca" width="160" height="160">
+	<h1>Time Passage</h1>
+  <!--rehype:style=border: 0;-->
 	<p>
 		<a href="./README.zh.md">中文</a> • 
 		<a href="./privacy-policy.md">Privacy Policy</a> • 
 		<a href="https://wangchujiang.com/#/contact">Contact & Support</a>
 	</p>
-	<h1>Time Passage</h1>
 </div>
 
 Calculate how much time is left from the birthday to the given time. "(The iOS reviewer asked me to change the name ~~`Life Countdown Time`~~ to `Time Passage`.)"

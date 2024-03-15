@@ -2,12 +2,13 @@
 	<br />
 	<br />
 	<img src="https://github.com/jaywcjlove/time-passage/assets/1680273/70bf83db-c1b0-4187-ad9c-dee7a99ab1ca" width="160" height="160">
+	<h1>时光流逝</h1>
+  <!--rehype:style=border: 0;-->
 	<p>
 		<a href="./README.md">English</a> • 
 		<a href="./privacy-policy.md">隐私政策</a> • 
 		<a href="https://wangchujiang.com/#/contact">联系&支持</a>
 	</p>
-	<h1>时光流逝</h1>
 </div>
 
 计算从生日到给定时间还剩多少时间。(iOS 审核人员让我必须改名字 ~~`人生倒计时`~~ => `时光流逝`)
