@@ -9,14 +9,15 @@
 		<a href="./privacy-policy.md">隐私政策</a> • 
 		<a href="https://wangchujiang.com/#/contact">联系&支持</a>
 	</p>
+	<p>
+		<a target="_blank" href="https://apps.apple.com/app/time-passage/id6479194014" title="时光流逝 for macOS">
+			<img alt="时光流逝 AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+		</a>
+		<a href="https://apps.apple.com/app/time-passage/id6479194014?platform=iphone" title="时光流逝 for iOS"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="时光流逝 App Store"  height="51"></a>
+	</p>
 </div>
 
 计算从生日到给定时间还剩多少时间。(iOS 审核人员让我必须改名字 ~~`人生倒计时`~~ => `时光流逝`)
-
-<a target="_blank" href="https://apps.apple.com/app/time-passage/id6479194014" title="时光流逝 for macOS">
-  <img alt="时光流逝 AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
-</a>
-<a href="https://apps.apple.com/app/time-passage/id6479194014?platform=iphone" title="时光流逝 for iOS"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="时光流逝 App Store"  height="51"></a>
 
 我什么时候会死？
 
