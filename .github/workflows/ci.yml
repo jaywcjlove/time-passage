@@ -22,9 +22,25 @@ jobs:
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/time-passage
+          homepage: https://wangchujiang.com/time-passage/
           tocs: false
           element: 
             wrapper: style=max-width:720px;
+          meta:
+            - <meta name="author" content="Kenny Wong">
+            - <meta property="og:site_name" content="<%= site %>">
+            - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
+            - <meta property="og:image" content="<%=homepage%>assets/logo.png">
+            - <meta property="og:type" content="website">
+            - <meta property="og:title" content="<%= site %>">
+            - <meta property="og:description" content="<%= description%>">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/screenshots-1.png">
+            - <meta property="twitter:site" content="@jaywcjlove">
+            - <meta property="twitter:creator" content="jaywcjlove">
+            - <meta property="twitter:card" content="summary_large_image">
+            - <meta property="twitter:title" content="<%= site %>">
+            - <meta property="twitter:description" content="<%= description%>">
+            - <meta name="apple-itunes-app" content="app-id=479194014">
           menus:
             Home: index.html
             Apps: 
