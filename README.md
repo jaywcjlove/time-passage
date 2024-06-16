@@ -24,4 +24,4 @@ When will i die?
 
 ![Time Passage screenshots-2](./assets/screenshots-2.png)
 
-<img src="./assets/screenshots-3.png" width="300"  title="Time Passage for iOS" /><img src="./assets/screenshots-4.png" width="300"  title="Time Passage for iOS" /><img src="./assets/screenshots-5.png" width="300"  title="Time Passage for iOS" />
+<img src="./assets/screenshots-3.png" width="260"  title="Time Passage for iOS" /><img src="./assets/screenshots-4.png" width="260"  title="Time Passage for iOS" /><img src="./assets/screenshots-5.png" width="260"  title="Time Passage for iOS" />
