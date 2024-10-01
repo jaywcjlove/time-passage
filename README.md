@@ -10,9 +10,9 @@
 		<a href="https://wangchujiang.com/#/contact">Contact & Support</a>
 	</p>
 	<p>
-		<a target="_blank" href="https://apps.apple.com/app/time-passage/id6479194014" title="Time Passage for macOS"><img alt="Time Passage AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+		<a target="_blank" href="https://apps.apple.com/app/time-passage/id6479194014" title="Time Passage for macOS"><img alt="Time Passage for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 		</a>
-		<a href="https://apps.apple.com/app/time-passage/id6479194014?platform=iphone" title="Time Passage for iOS"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Time Passage AppStore"  height="51"></a>
+		<a href="https://apps.apple.com/app/time-passage/id6479194014?platform=iphone" title="Time Passage for iOS"><img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Time Passage AppStore"  height="51"></a>
 	</p>
 </div>
 
