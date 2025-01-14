@@ -7,7 +7,7 @@
 	<p>
 		<a href="./README.md">English</a> • 
 		<a href="./privacy-policy.md">隐私政策</a> • 
-		<a href="https://wangchujiang.com/#/contact">联系&支持</a> • 
+		<a href="./feedback.zh.md">联系&支持</a> • 
     <a href="https://github.com/jaywcjlove/time-passage/releases">变更日志</a>
 	</p>
 	<p>
