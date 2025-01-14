@@ -28,3 +28,5 @@
 <img src="./assets/screenshots-3.png" width="320"  title="Time Passage for iOS" />
 <img src="./assets/screenshots-4.png" width="320"  title="Time Passage for iOS" />
 <img src="./assets/screenshots-5.png" width="320"  title="Time Passage for iOS" />
+
+<!--version: v1.4.0 -->
