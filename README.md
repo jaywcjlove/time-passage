@@ -21,6 +21,12 @@
 	</p>
 </div>
 
+<div align="center">
+
+Minimum requirement: `macOS 14.0`; download from GitHub for the latest version.
+
+</div>
+
 Calculate how much time is left from the birthday to the given time. "(The iOS reviewer asked me to change the name ~~`Life Countdown Time`~~ to `Time Passage`.)"
 
 When will i die? 
