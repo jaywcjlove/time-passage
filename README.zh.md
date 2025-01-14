@@ -37,8 +37,6 @@
 
 ![时光流逝 screenshots-2](https://github.com/jaywcjlove/life-countdown-time/assets/1680273/fcdf35be-d72e-42d7-aaca-9ac5054cc5ae)
 
-<img src="./assets/screenshots-3.png" width="320"  title="Time Passage for iOS" />
-<img src="./assets/screenshots-4.png" width="320"  title="Time Passage for iOS" />
-<img src="./assets/screenshots-5.png" width="320"  title="Time Passage for iOS" />
+<img src="./assets/screenshots-3.png" width="320"  title="Time Passage for iOS" /><img src="./assets/screenshots-4.png" width="320"  title="Time Passage for iOS" /><img src="./assets/screenshots-5.png" width="320"  title="Time Passage for iOS" />
 
 <!--version: v1.4.0 -->
