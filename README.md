@@ -7,7 +7,8 @@
 	<p>
 		<a href="./README.zh.md">中文</a> • 
 		<a href="./privacy-policy.md">Privacy Policy</a> • 
-		<a href="https://wangchujiang.com/#/contact">Contact & Support</a>
+		<a href="https://wangchujiang.com/#/contact">Contact & Support</a> • 
+    <a href="https://github.com/jaywcjlove/time-passage/releases">Changelog</a>
 	</p>
 	<p>
 		<a target="_blank" href="https://apps.apple.com/app/time-passage/id6479194014" title="Time Passage for macOS"><img alt="Time Passage for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
