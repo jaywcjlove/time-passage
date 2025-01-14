@@ -12,7 +12,12 @@
 	<p>
 		<a target="_blank" href="https://apps.apple.com/app/time-passage/id6479194014" title="Time Passage for macOS"><img alt="Time Passage for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 		</a>
-		<a href="https://apps.apple.com/app/time-passage/id6479194014?platform=iphone" title="Time Passage for iOS"><img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Time Passage AppStore"  height="51"></a>
+		<a href="https://apps.apple.com/app/time-passage/id6479194014?platform=iphone" title="Time Passage for iOS">
+      <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Time Passage AppStore"  height="51">
+    </a>
+    <a target="_blank" href="https://github.com/jaywcjlove/time-passage/releases/latest/download/TimePassage.zip" title="Time Passage for macOS">
+      <img alt="Time Passage from GitHub" src="https://wangchujiang.com/sb/download/apple-download.svg" height="51">
+    </a>
 	</p>
 </div>
 

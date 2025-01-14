@@ -13,7 +13,12 @@
 		<a target="_blank" href="https://apps.apple.com/app/time-passage/id6479194014" title="时光流逝 for macOS">
 			<img alt="时光流逝 for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 		</a>
-		<a href="https://apps.apple.com/app/time-passage/id6479194014?platform=iphone" title="时光流逝 for iOS"><img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="时光流逝 App Store"  height="51"></a>
+		<a href="https://apps.apple.com/app/time-passage/id6479194014?platform=iphone" title="时光流逝 for iOS">
+      <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="时光流逝 App Store"  height="51">
+    </a>
+    <a target="_blank" href="https://github.com/jaywcjlove/time-passage/releases/latest/download/TimePassage.zip" title="时光流逝 for macOS">
+      <img alt="时光流逝 from GitHub" src="https://wangchujiang.com/sb/download/apple-download.svg" height="51">
+    </a>
 	</p>
 </div>
 
