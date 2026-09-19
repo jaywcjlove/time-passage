@@ -22,7 +22,7 @@
 
 <div align="center">
 
-Minimum requirement: `macOS 14.0`; download from GitHub for the latest version.
+Minimum requirement: `macOS 14.0`;
 
 </div>
 
