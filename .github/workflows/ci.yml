@@ -72,8 +72,10 @@ jobs:
               url: https://wangchujiang.com/#/about
               target: __blank
           sideEffectFiles:
+            - README.md
             - README.zh.md
-            - privacy-policy.md
+            - CHANGELOG.md
+            - CHANGELOG.zh.md
           footer: |
             <a href="https://wangchujiang.com/time-passage/privacy-policy.html" target="_blank">Privacy Policy</a> • 
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 
