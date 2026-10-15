@@ -10,6 +10,15 @@ Changelog
 <img alt="DayBar AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/time-passage/releases/tag/v2.2.0)
+
+1. feat: optimize menu bar settings options
+2. fix: use current age instead of remaining years in lived-through sentence
+
+---
+
+1. feat: 优化菜单栏设置选项
+2. fix: 已度过时长语句使用当前年龄，而非剩余年限
 
 ## [v2.1.0](https://github.com/jaywcjlove/time-passage/releases/tag/v2.1.0)
 
